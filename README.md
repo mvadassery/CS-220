@@ -2,7 +2,7 @@ CS-220
 
 Projects completed in Javascript
 
-These are all projects made from scratch and completed in Javascript during my course in COMPSCI 220, Programming Methodology. These projects were completed on Ocelot. I have also included all function signatures and the tests that I wrote in order to test the programs.
+These are all projects made from scratch and completed in Javascript during my course in COMPSCI 220, Programming Methodology. These projects were completed on the Ocelot web-based IDE. I have also included all function signatures and the tests that I wrote in order to test the programs.
 
 JSON.js contains a program that takes in a large dataset of JSON objects, containing dictionaries, arrays, strings, and numbers. Using the fluent design pattern, the program returns a data set based on the user's preferences. 
 
